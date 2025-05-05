@@ -1,8 +1,9 @@
 ---
+title: 職務経歴書
 author_profile: true
+layout: single
+toc: true
 ---
-
-# 職務経歴書
 
 ## 基本情報
 

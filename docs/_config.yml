@@ -1,9 +1,13 @@
+plugins:
+  - "jekyll-include-cache"
+  - "jekyll-remote-theme"
+
 # Documentation of Minimal Mistakes
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
 # Site settings
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 locale: "ja-JP"
 title: "Resume of Shumpei Nagata"
@@ -15,7 +19,7 @@ repository: "shumpei-nagata/resume"
 # Site author
 
 author:
-  name: Shumpei Nagata"
+  name: "Shumpei Nagata"
   avatar: "/images/avatar.jpg"
   bio: "iOS App Developer"
   location: "Chiba, Japan"

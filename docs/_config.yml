@@ -1,0 +1,21 @@
+# Documentation of Minimal Mistakes
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
+# Site settings
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+locale: "ja-JP"
+title: "Resume of Shumpei Nagata"
+name: "Shumpei Nagata"
+description: "永田駿平の職務経歴書です"
+url: "https://shumpei-nagata.github.io"
+repository: "shumpei-nagata/resume"
+
+# Site author
+
+author:
+  name: Shumpei Nagata"
+  avatar: "/images/avatar.jpg"
+  bio: "iOS App Developer"
+  location: "Chiba, Japan"

@@ -39,7 +39,7 @@ UIKit / SwiftUI / AVFoundation / CoreNFC / Kotlin Flow / Kotlin Multiplatform
 
 GitHub Actions / Bitrise / fastlane / Danger / DeployGate
 
-### その他
+### 他ツールなど
 
 XcodeGen / GNU make
 
@@ -244,6 +244,7 @@ Eggsアプリ開発チームにアドバイザーとして参加し、Findy Team
 - 技術
   - iOS及び周辺デバイス向けのアプリケーション開発
   - Kotlin Multiplatformなどを活用したマルチプラットフォーム開発
+  - AIコーディングエージェントなどを活用した開発スタイルの模索
 - 組織・マネジメント
   - Four Keysなどによる開発生産性の可視化・継続的改善
   - チームトポロジーによる開発体制の継続的改善
@@ -256,6 +257,10 @@ Eggsアプリ開発チームにアドバイザーとして参加し、Findy Team
 
 - フルリモート もしくは リモートワーク中心のハイブリッドワーク(出社月1~週1程度)
   - 自己学習や個人の趣味、家族との時間を確保したいため
+- フレックスタイム
+  - 家族や飼い猫の体調不良などに対応できるように
+- ICからEMへの転向の余地があること
+- 社内外の勉強会・カンファレンスへ積極的に参加できること
 
 ## 趣味・好きなもの
 

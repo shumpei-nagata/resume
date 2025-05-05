@@ -109,10 +109,10 @@ App Clip実装のためのアプリ容量削減にも注力しています。
   - CI/CDパイプライン構築
   - 見積もり・タスク分割サポート
 - 関連情報
-  - [スマホをかざすと「音色」が流れる「P!TNE(ピトネ)」アプリ対応第１弾商品：椎名慶治『RABBIT-MAN Ⅱ』リリース記念！アカペラ音源やボイスが聴ける！アクリルスタンド数量限定販売開始 | ニュースリリース | 株式会社レコチョク](https://recochoku.jp/corporate/news/20240112-pitne-yoshiharushiina/)
-  - [スマホをかざすとメンバーオリジナルボイスや新曲が流れる！ ONE N’ ONLY×P!TNE(ピトネ)、メンバー別CDキーホルダー「ONE N’ SWAG 2024 ¿Fiesta?」ツアー数量限定販売 | ニュースリリース | 株式会社レコチョク](https://recochoku.jp/corporate/news/20241010-one-n-onlyxptne/)
-  - [【iOS】Kotlin MultiplatformでApp Clip対応アプリを2か月で作ったので振り返る #KotlinMultiplatform - Qiita](https://qiita.com/shumpei_nagata/items/7dcbd065ffbcf7ca94da)
-  - [【Kotlin Multiplatform】commonMainのinterfaceを特定のプラットフォーム向けに拡張する | レコチョクのエンジニアブログ](https://techblog.recochoku.jp/10321)
+  - [スマホをかざすと「音色」が流れる「P!TNE(ピトネ)」アプリ対応第１弾商品：椎名慶治『RABBIT-MAN Ⅱ』リリース記念！アカペラ音源やボイスが聴ける！アクリルスタンド数量限定販売開始](https://recochoku.jp/corporate/news/20240112-pitne-yoshiharushiina/)
+  - [スマホをかざすとメンバーオリジナルボイスや新曲が流れる！ ONE N’ ONLY×P!TNE(ピトネ)、メンバー別CDキーホルダー「ONE N’ SWAG 2024 ¿Fiesta?」ツアー数量限定販売](https://recochoku.jp/corporate/news/20241010-one-n-onlyxptne/)
+  - [【iOS】Kotlin MultiplatformでApp Clip対応アプリを2か月で作ったので振り返る](https://qiita.com/shumpei_nagata/items/7dcbd065ffbcf7ca94da)
+  - [【Kotlin Multiplatform】commonMainのinterfaceを特定のプラットフォーム向けに拡張する](https://techblog.recochoku.jp/10321)
 
 #### 他社協業アプリ 内製化・エンハンス対応
 
@@ -222,8 +222,8 @@ Eggsアプリ開発チームにアドバイザーとして参加し、Findy Team
   - fastlane matchによる証明書管理導入
   - レコチョク社からエッグス社へのアプリ譲渡対応と、それに伴う調査
 - 関連情報
-  - [Eggsリニューアルに向けβ版アプリが一般公開開始！｜Eggs｜インディーズバンド音楽配信サイト](https://eggs.mu/music/article/40703)
-  - [Eggsアプリが全面リニューアル！｜Eggs｜インディーズバンド音楽配信サイト](https://eggs.mu/music/article/46316)
+  - [Eggsリニューアルに向けβ版アプリが一般公開開始！](https://eggs.mu/music/article/40703)
+  - [Eggsアプリが全面リニューアル！](https://eggs.mu/music/article/46316)
 
 ## 意欲・興味
 

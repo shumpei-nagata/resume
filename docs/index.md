@@ -29,6 +29,10 @@ toc: true
 
 ## 職務要約
 
+2019年から6年以上に渡り、iOSアプリエンジニアとしてシステム開発に従事しています。
+レガシーなアプリの内製化・モダナイゼーションから、SwiftUI, Kotlin Multiplatformなどの新技術を用いた新規アプリ開発、テストによる品質改善、CI/CDパイプラインの構築、証明書管理、アプリの譲渡対応など、iOSアプリ開発における幅広い経験を持っています。
+また、単に開発業務を行うだけでなく、定量的なデータをもとにした開発生産性の改善施策や、定期的な1on1や勉強会開催によるチーム全体の技術力向上にも取り組んできました。
+
 ## 職務経歴
 
 - 期間
@@ -65,15 +69,18 @@ iOSアプリチームのリードとして、要件・スコープの調整や�
   - fastlane
   - MagicPod
   - DeployGate
+  - Google Apps Script
 - 担当業務
   - 内部設計のリアーキテクチャ
   - 各種テストの導入(Unit Test, Snapshot Test)
   - Storyboard, xibベースのレイアウトを、SnapKitを用いたコードベースのレイアウトへ移行
   - 各種技術の検証や移行対応
+    - AVAudioEngineを用いたイコライザ機能の開発
     - Bitrise → GitHub Actions移行
     - CoreNFC/MiFareタグの検証
     - Swift 6移行
   - 他領域の開発者やビジネス担当メンバーを交えた、要件・スコープの調整
+  - 開発生産性メトリクス(Four Keys)を計測するシステムの構築
 - 関連情報
   - [Swift 5.7の新機能を用いて、複数サービスを扱うアプリをリアーキテクチャする #iOS - Qiita](https://qiita.com/shumpei_nagata/items/7cc76b3344c48976800b)
 

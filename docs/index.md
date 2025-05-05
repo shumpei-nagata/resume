@@ -1,3 +1,7 @@
+---
+author_profile: true
+---
+
 # 職務経歴書
 
 ## 基本情報

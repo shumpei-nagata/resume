@@ -3,7 +3,7 @@
     "body_class": "markdown-body",
     "pdf_options": {
         "format:": "A4",
-        "margin": "20mm 10mm",
+        "margin": "30mm 20mm",
         "printBackground": true
     },
     "launch_options": {

@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:pdf": "md-to-pdf --config-file ./pdf-configs/config.json ./docs/index.md"
   },
   "repository": {
     "type": "git",

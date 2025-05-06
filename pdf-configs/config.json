@@ -1,0 +1,10 @@
+{
+    "stylesheet": "./pdf-configs/stylesheet.css",
+    "body_class": "markdown-body",
+    "pdf-options": {
+        "format:": "A4",
+        "margin": "20mm 10mm",
+        "printBackground": true
+    },
+    "stylesheet_encoding": "UTF-8"
+}

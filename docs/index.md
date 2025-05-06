@@ -1,9 +1,11 @@
 ---
-title: 職務経歴書
+title: "" # Jekyll側でタイトルが二重で表示されてしまうことを回避する
 author_profile: true
 layout: single
 toc: true
 ---
+
+# 職務経歴書
 
 ## 基本情報
 
@@ -108,13 +110,13 @@ iOSアプリチームのリードとして、要件・スコープの調整や�
   - 他領域の開発者やビジネス担当メンバーを交えた、要件・スコープの調整
   - 開発生産性メトリクス(Four Keys)を計測するシステムの構築
 - 関連情報
-  - [Swift 5.7の新機能を用いて、複数サービスを扱うアプリをリアーキテクチャする #iOS - Qiita](https://qiita.com/shumpei_nagata/items/7cc76b3344c48976800b)
+  - [Swift 5.7の新機能を用いて、複数サービスを扱うアプリをリアーキテクチャする](https://qiita.com/shumpei_nagata/items/7cc76b3344c48976800b)
 
 #### P!TNEアプリ 新規開発・エンハンス対応
 
 NFCタグを内蔵した商品をスマホにかざすと、商品に紐づいたコンテンツを再生できるアプリ「[P!TNE](https://pitne.jp/)」の新規開発に携わりました。
 初回リリースまでの2ヶ月強の開発期間の中で、Kotlin Multiplatformを用いてiOS/Androidの処理を共通化し、Androidアプリ側の実装も一部担当しました。
-App Clip実装のためのアプリ容量削減にも注力しています。
+本サービスではApp Clipもサポートしており、アプリ容量の削減にも注力しました。
 
 - 期間
   - 2023/06〜現在
@@ -125,7 +127,6 @@ App Clip実装のためのアプリ容量削減にも注力しています。
 - 使用技術
   - Swift
   - SwiftUI
-  - App Clip
   - Kotlin Multiplatform
   - GitHub Actions
   - fastlane
@@ -195,7 +196,7 @@ iOSアプリチームの技術面をリードし、デグレ防止のための�
 
 #### Eggsアプリ開発チーム 開発生産性の改善サポート
 
-[Eggs](https://eggs.mu/)アプリ開発チームにアドバイザーとして参加し、Findy Team+を用いて開発生産性を改善する取り組みのサポートしました。
+[Eggs](https://eggs.mu/)アプリ開発チームにアドバイザーとして参加し、Findy Team+を用いて開発生産性を改善する取り組みをサポートしました。
 
 - 期間
   - 2025/03~現在

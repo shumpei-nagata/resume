@@ -5,6 +5,13 @@ body {
     font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }
 
+h1:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+    border-top: none;
+}
+
 table {
     border-collapse: collapse;
 }

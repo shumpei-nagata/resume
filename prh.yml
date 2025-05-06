@@ -1,0 +1,36 @@
+# https://github.com/prh/prh/blob/master/misc/prh.yml
+
+version: 1
+
+rules:
+  - expected: Swift
+  - expected: Objective-C
+    pattern: /obj(ective)?-?c/i
+    specs:
+      - from: objc
+        to: Objective-C
+      - from: ObjC
+        to: Objective-C
+      - from: ObjectiveC
+        to: Objective-C
+  - expected: Kotlin
+  - expected: KMP
+    pattern: KMM
+  - expected: iOS
+  - expected: Android
+  - expected: macOS
+  - expected: Xcode
+  - expected: GitHub
+  - expected: GitHub Actions
+    pattern: /github\s?actions?/i
+    specs:
+      - from: GitHub Action
+        to: GitHub Actions
+      - from: GitHubActions
+        to: GitHub Actions
+      - from: GitHub actions
+        to: GitHub Actions
+  - expected: Bitrise
+  - expected: MagicPod
+  - expected: Figma
+  - expected: Slack

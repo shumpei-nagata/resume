@@ -42,7 +42,7 @@ toc: true
 [![wantedly-image]][wantedly-link]
 [![linkedin-image]][linkedin-link]
 
-## 保有スキル
+## スキル
 
 ### 言語
 

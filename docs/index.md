@@ -112,7 +112,7 @@ iOSアプリチームのリードとして、要件・スコープの調整や�
 - 関連情報
   - [Swift 5.7の新機能を用いて、複数サービスを扱うアプリをリアーキテクチャする](https://qiita.com/shumpei_nagata/items/7cc76b3344c48976800b)
   - [PlayPASS PAK（プレイパス パック）](https://playpass.jp/pak)
-  - [新サービスとして再生メディアの新しい選択肢 スマホにかざして即再生 「PlayPASS PAK」提供開始！ 第一弾は『ウマ娘』イベント開催記念CDに封入決定 | ニュースリリース | 株式会社レコチョク](https://recochoku.jp/corporate/news/20250930-playpasspak/)
+  - [新サービスとして再生メディアの新しい選択肢 スマホにかざして即再生 「PlayPASS PAK」提供開始！ 第一弾は『ウマ娘』イベント開催記念CDに封入決定](https://recochoku.jp/corporate/news/20250930-playpasspak/)
 
 #### P!TNEアプリ 新規開発・エンハンス対応
 

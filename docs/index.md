@@ -208,6 +208,39 @@ iOSアプリチームの技術面をリードし、デグレ防止のための�
 - 担当業務・実績
   - Findy Team+を用いた振り返り会やその他定例に参加し、課題発見・振り返りをサポート
 
+#### Eggs iOSアプリ エンハンス対応
+
+- 期間
+  - 2025/09~現在
+- プロジェクト規模
+  - iOSアプリ開発者 1名
+  - Androidアプリ開発者 2名
+  - API・バックエンド開発者 2~3名
+- 使用技術
+  - Swift
+  - SwiftUI
+  - Kotlin Multiplatform
+  - XCTest
+  - Bitrise
+  - GitHub Actions
+  - XcodeGen
+  - fastlane
+  - MagicPod
+  - DeployGate
+  - Claude Code
+  - Figma
+- 担当業務・実績
+  - iOSアプリ、Kotlin Multiplatformの共通ロジックの実装
+  - AI(Claude Code)による開発を円滑化する環境の構築
+    - 実務における活用検証
+    - 各種MCP導入
+    - Linter/Formatter導入
+    - デッドコードの削除
+    - トークン使用量削減のためのリファクタリング
+    - AI用ドキュメント作成
+    - チームメンバーの導入サポート
+  - Findy Team+を用いた振り返り会の実施
+
 ### 2021/07〜2021/12 [株式会社リクルート](https://www.recruit.co.jp/)
 
 #### ホットペッパービューティー iOSアプリ開発
